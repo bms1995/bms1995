@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bms1995
 - 👀 I’m interested in Algorithms and Web developement
-- 🌱 I’m currently learning Spring boot 
+- 🌱 I’m currently working with Spring boot and Angular 
 - 💞️ I’m looking to collaborate on Open source projects
 - 📫 How to reach me boumessouerachraf@yahoo.com
 
